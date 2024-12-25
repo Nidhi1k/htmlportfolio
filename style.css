@@ -1,0 +1,8 @@
+.img_container{
+  display:flex;
+  justify-content:center;
+}
+
+.portfolio{
+  text-align:center;
+}
